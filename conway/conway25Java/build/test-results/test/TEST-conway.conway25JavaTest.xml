@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="conway.conway25JavaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-27T13:36:17" hostname="bob" time="5.01">
+  <properties/>
+  <testcase name="yyy" classname="conway.conway25JavaTest" time="0.001"/>
+  <testcase name="test1" classname="conway.conway25JavaTest" time="5.009"/>
+  <system-out><![CDATA[setup
+ok yyy
+down
+ok test1
+---------Initial----------
+000
+111
+000
+---------Epoch --- 1
+000
+111
+000
+
+---------Epoch --- 2
+010
+010
+010
+
+---------Epoch --- 3
+000
+111
+000
+
+---------Epoch --- 4
+010
+010
+010
+
+---------Epoch --- 5
+000
+111
+000
+
+down
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
