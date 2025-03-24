@@ -1,3 +1,6 @@
+[Relazione finale](./ISS_Conway.pdf)
+
+
 # Conway Life Game #
 The Game of Life by John Conway is a zero-player cellular automaton that simulates how cells live, die, or reproduce based on simple rules.  
 It was invented in 1970 and is often used in computer science, mathematics, and artificial intelligence studies.
