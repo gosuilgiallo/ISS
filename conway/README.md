@@ -30,4 +30,7 @@ _⚡ Why is it Interesting?_
 
 ## Content of this project ##
 - **conway25Java**: basic logic
-- 
+- **conwaygui**: incremental development of a Graphic User Interface
+- **conway25JavaMqtt** : communication with mqtt
+- **java-microservice-app**: an example of microservice
+- **conwayguialone**: a stand-alone GUI
