@@ -26,3 +26,8 @@ _⚡ Why is it Interesting?_
 - It demonstrates emergent behavior from simple rules.  
 - Some patterns oscillate, some move, and some even replicate themselves!  
 - It has been used in AI, complex systems, and even music generation.  
+
+
+## Content of this project ##
+- **conway25Java**: basic logic
+- 
