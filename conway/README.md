@@ -1,6 +1,6 @@
 # Link relazione finale della prima fase (conway life game)
 
-[Relazione finale](./ISS_Conway.pdf)
+[Relazione finale fase 1](./ISS_Conway.pdf)
 
 
 # Conway Life Game #
